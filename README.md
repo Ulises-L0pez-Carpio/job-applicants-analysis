@@ -21,6 +21,7 @@ Job applications increase steadily from February to July, reaching a peak in Jul
 - After July, application volume gradually declines toward the end of the year, reflecting a seasonal slowdown in recruitment cycles.
 
 - Despite seasonal fluctuations, monthly application counts remain within a relatively narrow range (min: 2,312, max: 3,138), suggesting stable overall demand throughout the year.
-
+- 
+- The total of 32,596 applications over the year indicates a consistently active recruitment pipeline, with no extreme volatility month to month.
 ## Limitations
 - Descriptive analysis only
